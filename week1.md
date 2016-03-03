@@ -7,7 +7,7 @@
 
 - Søren is in 321, door 009
 
-### Overview 
+### Overview of the project
 - Distance metric used to identify nearest neighbours
     - Metric adapted to problem being solved -> Find good metric for faces
     - Learn metric from labeled examples. Is that possible?
@@ -21,28 +21,29 @@
     - Come up with a matrix that makes the distance measure better
     - A change of basis (new coordinate system for feature vector)
 
-### Plan for the next week
-- Read chapter 2 in Bishop
-- Read the research paper ["Distance Metric Learning for Large Margin Nearest Neighbor Classification"](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)
-- Download [data](https://lrs.icg.tugraz.at/research/kissme/)
-- Implement kNN with Euclidian distance and run it
+### Prioritized plan for the next week
+1. Read the research paper ["Distance Metric Learning for Large Margin Nearest Neighbor Classification"](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)
+2. Read chapter 2 in Bishop
+3. Implement kNN with Euclidian distance and run it (maybe just pseudo code)
     - Optimize it and make it fast
+4. Download [data](https://lrs.icg.tugraz.at/research/kissme/)
+5. If time: Research on key image points for faces
 
-- If time: Research on key image points for faces
 
-### Poster presentation
 
+### Meeting notes
+
+##### Poster presentation
 1. What did we do
 2. What did we learn, what did we find out
 3. Where did we fail
 4. Incorporate feedback into report
 
-### Report
+##### Report
 - 4 pages (dense af)
 - Get feedback on preliminary report as we go a long
 
-
-### Other meeting notes
+##### Other stuff
 - Agree on dates for feedback with Søren H.
 - Weekly meeting with Søren thursdays from 11-12
 - Maybe compare our implementation with other public implementations
