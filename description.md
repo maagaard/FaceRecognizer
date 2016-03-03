@@ -39,6 +39,7 @@
 - [http://www.cs.cornell.edu/~kilian/code/lmnn/lmnn.html](http://www.cs.cornell.edu/~kilian/code/lmnn/lmnn.html)
 - [http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)
 - [http://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification.pdf](http://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification.pdf)
+-[Bitbucket lmnn project](https://bitbucket.org/mlcircus/lmnn)
 
 *Other*
 
