@@ -2,33 +2,9 @@
 
 ## Large-Margin Nearest Neighbours
 
-- Søren is in 321, door 009
-
-### Overview 
-- Distance metric used to identify nearest neighbours
-    - Metric adapted to problem being solved -> Find good metric for faces
-    - Learn metric from labeled examples. Is that possible?
-    - Use only relevant parts of image (faces and not background)
-
-- Possible tasks:
-    1. Which person is this?
-    2. Is this the same person as this?
-
-- Learn good distance measures between features
-    - Come up with a matrix that makes the distance measure better
-    - A change of basis (new coordinate system for feature vector)
-
-### Plan 
-- Read chapter 2 in Bishop
-- Read the research paper ["Distance Metric Learning for Large Margin Nearest Neighbor Classification"](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)
-- Download [data](https://lrs.icg.tugraz.at/research/kissme/)
-- Implement kNN with Euclidian distance and run it
-    - Optimize
-- Research on key image points for faces
-
 
 ### Learning objective
-- 
+
 
 ### Links to read
 

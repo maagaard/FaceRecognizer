@@ -21,17 +21,16 @@
     - Come up with a matrix that makes the distance measure better
     - A change of basis (new coordinate system for feature vector)
 
+- Research on key image points for faces
+
+
 ### Prioritized plan for the next week
 1. Read the research paper ["Distance Metric Learning for Large Margin Nearest Neighbor Classification"](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)
 2. Read chapter 2 in Bishop
 3. Implement kNN with Euclidian distance and run it (maybe just pseudo code)
     - Optimize it and make it fast
 4. Download [data](https://lrs.icg.tugraz.at/research/kissme/)
-5. If time: Research on key image points for faces
 
-
-
-### Meeting notes
 
 ##### Poster presentation
 1. What did we do

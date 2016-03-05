@@ -1,4 +1,8 @@
-# Advanced Machine Learning 02460 - Project
+# Advanced Machine Learning 02460 - Project log 
+
+Morten Raaberg
+Lisa Andersen
+Emil Maagaard
 
 ## Large-Margin Nearest Neighbours
 
@@ -9,11 +13,15 @@
 - Hypotheses and aims
 
 ## Week 1 
-[Log](week1.md)
-#### Outline
+*03-03-2016*
 
-#### Other
-[More](desciprtion.md)
+[Project meeting ](desciprtion.md)
+
+[Supervisor meeting ](week1.md)
+
+#### Outline
+Initial project and supervisor meeting. 
+
 
 
 ## Week 2
