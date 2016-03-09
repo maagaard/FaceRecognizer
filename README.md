@@ -1,8 +1,8 @@
 # Advanced Machine Learning 02460 - Project log 
 
-Morten Raaberg
-Lisa Andersen
-Emil Maagaard
+- Morten Raaberg
+- Lisa Andersen
+- Emil Maagaard
 
 ## Large-Margin Nearest Neighbours
 
