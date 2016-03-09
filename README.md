@@ -15,7 +15,7 @@ Emil Maagaard
 ## Week 1 
 *03-03-2016*
 
-[Project meeting ](desciprtion.md)
+[Project meeting ](description.md)
 
 [Supervisor meeting ](week1.md)
 
