@@ -4,10 +4,14 @@
 - Lisa Andersen
 - Emil Maagaard
 
+Weekly meeting with Søren thursdays from 11-12
+
 ## Large-Margin Nearest Neighbours
 
 ## Project goals
 - Insert project goals
+- Learning objectives
+
 
 ### Project delimitation
 - Hypotheses and aims
