@@ -15,9 +15,9 @@
 ## Week 1 
 *03-03-2016*
 
-[Project meeting ](description.md)
+[Project meeting ](/project-meetings/pm-w1.md)
 
-[Supervisor meeting ](week1.md)
+[Supervisor meeting ](/supervisor-meetings/sm-w1.md)
 
 #### Outline
 Initial project and supervisor meeting. 
@@ -25,3 +25,16 @@ Initial project and supervisor meeting.
 
 
 ## Week 2
+*10-03-2016*
+### TODO:
+[ ] Agree on project goals
+[ ] Make a project delimitation 
+[ ] Run kNN algorithm - maybe talk about optimizations
+[ ] Questions?
+
+[Project meeting ](/project-meetings/pm-w2.md)
+
+[Supervisor meeting ](/supervisor-meetings/sm-w2.md)
+
+
+#### Outline

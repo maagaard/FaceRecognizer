@@ -1,5 +1,5 @@
 # Advanced Machine Learning 02460 - Project
-# Week 1 
+## Week 1 
 **03-03-2016**
 
 ## Large-Margin Nearest Neighbours
