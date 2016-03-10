@@ -26,11 +26,12 @@ Initial project and supervisor meeting.
 
 ## Week 2
 *10-03-2016*
-### TODO:
-[ ] Agree on project goals
-[ ] Make a project delimitation 
-[ ] Run kNN algorithm - maybe talk about optimizations
-[ ] Questions?
+### TODO
+
+- [ ] Agree on project goals 
+- [ ] Make a project delimitation 
+- [ ] Run kNN algorithm - maybe talk about optimizations
+- [ ] Questions?
 
 [Project meeting ](/project-meetings/pm-w2.md)
 
