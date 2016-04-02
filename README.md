@@ -54,3 +54,15 @@ Initial project and supervisor meeting.
 
 
 #### Outline
+
+
+## Week 4
+*31-03-2016*
+
+[Project meeting ](/project-meetings/pm-w4.md)
+
+[Supervisor meeting ](/supervisor-meetings/sm-w4.md)
+
+### TODO
+
+#### Outline
