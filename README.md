@@ -38,8 +38,19 @@ Initial project and supervisor meeting.
 ### TODO
 
 - [ ] Run kNN algorithm - maybe talk about optimizations
-- [ ] Questions?
+- [ ] Questions for Søren?
+
+
+## Week 3
+*17-03-2016*
+
+[Project meeting ](/project-meetings/pm-w3.md)
+
+[Supervisor meeting ](/supervisor-meetings/sm-w3.md)
+
+### TODO
+
+- [] Fix stuff?
 
 
 #### Outline
-
