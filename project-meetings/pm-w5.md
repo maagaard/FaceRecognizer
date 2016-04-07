@@ -14,11 +14,13 @@
     * We now compute it
 - Code profiling
     - The intersect(A,B) used for finding correct targets and impostors, is very slow. Instead of intersect, the underlying method used by intersect(A,B), ismember(A,B) can be used. The ismember(A,B) returns an array indicating which values of A that is also found in B. 
+- Active sets 
 
 # Work for next week. 
 - Test classification
 - Visualize behavior of gradient
 - Make some more examples for visualization 
+- 
 
 # Discussions
 - Loss function numerisk gradient vist korrekt

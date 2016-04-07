@@ -1,4 +1,4 @@
-Versioning of the LMNN algorithm
+### Versioning of the LMNN algorithm
 
-v1:
+##### v1:
 - 
