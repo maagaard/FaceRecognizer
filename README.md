@@ -19,12 +19,11 @@ Weekly meeting with Søren thursdays from 11-12
 ## Week 1 
 *03-03-2016*
 
+Initial project and supervisor meeting. 
+
 [Project meeting ](/project-meetings/pm-w1.md)
 
 [Supervisor meeting ](/supervisor-meetings/sm-w1.md)
-
-#### Outline
-Initial project and supervisor meeting. 
 
 
 
@@ -35,9 +34,6 @@ Initial project and supervisor meeting.
 
 [Supervisor meeting ](/supervisor-meetings/sm-w2.md)
 
-### TODO
-- [ ] Run kNN algorithm - maybe talk about optimizations
-- [ ] Questions for Søren?
 
 
 ## Week 3
