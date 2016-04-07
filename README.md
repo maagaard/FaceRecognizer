@@ -36,7 +36,6 @@ Initial project and supervisor meeting.
 [Supervisor meeting ](/supervisor-meetings/sm-w2.md)
 
 ### TODO
-
 - [ ] Run kNN algorithm - maybe talk about optimizations
 - [ ] Questions for Søren?
 
@@ -48,12 +47,6 @@ Initial project and supervisor meeting.
 
 [Supervisor meeting ](/supervisor-meetings/sm-w3.md)
 
-### TODO
-
-- [] Fix stuff?
-
-
-#### Outline
 
 
 ## Week 4
@@ -63,6 +56,13 @@ Initial project and supervisor meeting.
 
 [Supervisor meeting ](/supervisor-meetings/sm-w4.md)
 
+
+## Week 5
+*07-04-2016*
+
+[Project meeting ](/project-meetings/pm-w5.md)
+
+[Supervisor meeting ](/supervisor-meetings/sm-w5.md)
+
 ### TODO
 
-#### Outline
