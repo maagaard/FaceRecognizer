@@ -3,11 +3,8 @@
 **07-04-2016**
 
 
-## Overview
-
-
 # Progress since last time
--  
+-  Nothing noteworthy
 
 # Today
 - Better value for margin
