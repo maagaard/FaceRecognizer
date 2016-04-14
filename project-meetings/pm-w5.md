@@ -14,9 +14,9 @@
 - Implementing LMNN using active sets 
     - We first experienced a weird behavior of the loss function, showing spikes every time we recomputed the active sets. However, the loss function still converged somewhat like that of the full implementation. 
     - Investigations showed poorly handling of the active set's impostor indexes. Solving this issue showed gave us the following (Fishers Iris data set):
-    - ![LMNN active]
+    ![LMNN active]
 - Visualizing behavior of metric
-    - ![LMNN metric]
+    ![LMNN metric]
 
 
 # Discussions
