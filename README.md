@@ -60,5 +60,12 @@ Initial project and supervisor meeting.
 
 [Supervisor meeting ](/supervisor-meetings/sm-w5.md)
 
-### TODO
+
+## Week 6
+*14-04-2016*
+
+[Project meeting ](/project-meetings/pm-w6.md)
+
+[Supervisor meeting ](/supervisor-meetings/sm-w6.md)
+
 
