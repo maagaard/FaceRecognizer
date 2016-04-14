@@ -16,10 +16,11 @@
     - Investigations showed poorly handling of the active set's impostor indexes. Solving this issue showed gave us the following (Fishers Iris data set). 
     ![LMNN active]
     - In order to compare the active set implementation speed against the full implementation we profiled the code in Matlab. For a more reliable result we ran 500 iterations of each on the exact same data.
-    - The full algorithm (called LMNN_v3):
+    - The full algorithm, called LMNN_v3, and the active set implementation, called LMNN_v4:
+    ![Profiling]
     ![Full algo]
-    - The active set implementation (called LMNN_v4):
     ![AS algo]
+    - It is clearly visible that the active set implementation is a lot faster than then full algorithm. Furthermore this comparison might only show a small speed gain, as the data set is only two-dimensional. We can imagine that the performance difference of the algorithms is proportional to the number of dimensions. 
 - Visualizing behavior of metric
     ![LMNN metric]
 
@@ -59,5 +60,6 @@
 
 [LMNN active]: /images/LMNN_v4_fishersiris_w5.png
 [LMNN metric]: /images/LMNN_v4_metricplot_w5.png
+[Profiling]: /images/profiling_header.png
 [Full algo]: /images/full_algo_it500.png
 [AS algo]: /images/active_set_algo_it500.png
