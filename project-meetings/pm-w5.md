@@ -13,8 +13,13 @@
     - The intersect(A,B) used for finding correct targets and impostors, is very slow. Instead of intersect, the underlying method used by intersect(A,B), ismember(A,B) can be used. The ismember(A,B) returns an array indicating which values of A that is also found in B. 
 - Implementing LMNN using active sets 
     - We first experienced a weird behavior of the loss function, showing spikes every time we recomputed the active sets. However, the loss function still converged somewhat like that of the full implementation. 
-    - Investigations showed poorly handling of the active set's impostor indexes. Solving this issue showed gave us the following (Fishers Iris data set):
+    - Investigations showed poorly handling of the active set's impostor indexes. Solving this issue showed gave us the following (Fishers Iris data set). 
     ![LMNN active]
+    - In order to compare the active set implementation speed against the full implementation we profiled the code in Matlab. For a more reliable result we ran 500 iterations of each on the exact same data.
+    - The full algorithm (called LMNN_v3):
+    ![Full algo]
+    - The active set implementation (called LMNN_v4):
+    ![AS algo]
 - Visualizing behavior of metric
     ![LMNN metric]
 
@@ -54,3 +59,5 @@
 
 [LMNN active]: /images/LMNN_v4_fishersiris_w5.png
 [LMNN metric]: /images/LMNN_v4_metricplot_w5.png
+[Full algo]: /images/full_algo_it500.png
+[AS algo]: /images/active_set_algo_it500.png
