@@ -57,6 +57,8 @@
 - Visualize behavior of gradient
 - Make some more examples for visualization 
 
+# [Go to next week](/project-meetings/pm-w6.md)
+
 
 [LMNN active]: /images/LMNN_v4_fishersiris_w5.png
 [LMNN metric]: /images/LMNN_v4_metricplot_w5.png
