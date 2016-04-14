@@ -14,7 +14,9 @@
 - Simple classification using KNN with a metric learned by our LMNN algorithm of the Fisher's Iris data set: 
   - 120 of the samples were used for training and 30 samples for testing. Out of the 30 test samples, 4 were misclassified in this instance:
   ![classification]
-- Improvement of LMNN by removing calculations where result was never used
+- Improvement of LMNN by removing calculations where result was never used. The speedup from the old(v4) to the new improved implementation(v5) can be seen below:
+  ![Profiling]
+  ![Comparison]
 
 
 # Sketch of report plan
@@ -50,3 +52,5 @@
 
 
 [classification]: /images/LMNN_classification_fisher_w6.png
+[Profiling]: /images/profiling_header.png
+[Comparison]: /images/profiling_v4_v5.png
