@@ -26,6 +26,7 @@
 - Other ways of learning metric, e.g. inverse covariance matrix
 - Non-convex optimizing problems vs convex
     - e.g. large margin largest component
+- Stochastic gradient descent
 
 - Discuss the implication of the complexity of data (dimensions) 
 

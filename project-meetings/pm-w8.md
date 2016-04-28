@@ -27,6 +27,7 @@
 - Classification with metric vs KNN
     - In general classification comparisons
     - Maybe see if there are special cases where the metric are better than KNN, e.g. if the guy with classes are misqualified in the one where he doesn't wear glasses, and the metric helps recognizing him anyway?!
+    - Classification with and without the learned metric
 
 - Visualizing metric applied to "original data"
     - Maybe show incremental change over iterations
