@@ -28,3 +28,8 @@
         - Such as expensiveness of algorithm when evaluating large data sets
         - Dimensions
         - Etc?
+
+### Feedback on blog (log)
+- Make sure to visualize comparison of with and with out active set implementations in the report
+- Compare the learned metric classification against the euclidean metric
+- Remember a chapter for discussing alternative algorithms for learning metrics

@@ -69,9 +69,19 @@ Initial project and supervisor meeting.
 [Supervisor meeting ](/supervisor-meetings/sm-w6.md)
 
 
-## Week 6
+## Week 7
 *21-04-2016*
 
 [Project meeting ](/project-meetings/pm-w7.md)
 
 [Supervisor meeting ](/supervisor-meetings/sm-w7.md)
+
+
+## Week 8
+*28-04-2016*
+
+[Project meeting ](/project-meetings/pm-w8.md)
+
+[Supervisor meeting ](/supervisor-meetings/sm-w8.md)
+
+
