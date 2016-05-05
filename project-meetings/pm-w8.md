@@ -42,5 +42,8 @@
 
 
 
+## Report (other)
+- Further work on algorithm
+    - Use ball-trees or k-d-trees. Maybe in the same fashion as Weinberger, or in the fashion described in [W7](/project-meetings/pm-w7.md#Considerations)
 
 

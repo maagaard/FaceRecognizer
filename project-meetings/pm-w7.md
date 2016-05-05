@@ -13,7 +13,7 @@
 - New data set! Olivetti face ....
 
 
-# Report considerations
+#  <a name="Considerations"></a>Report considerations
 - This algorithm is not really that suitable for large data sets with large dimensions!
   - Show example calculation of the C-matrix for instance
 - Maybe if more information about nearest points are available, many calculations can be omitted
